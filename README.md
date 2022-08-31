@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cburen
-- 👀 I’m interested in financial engineering, smart contract development, and half-marathons.
-- 🌱 I’m currently in the Rutgers Quant Finance Masters program and Social Director at Blockchain Education Network.
-- 💞️ I’m looking to collaborate on projects on the ethereum blockchain and other smart contract platforms.
+- 👀 I’m interested in financial engineering and half-marathons.
+- 🌱 I’m currently in the Rutgers Quant Finance Masters program and a quant risk intern at Galaxy.
+- 💞️ I’m looking to collaborate on dapp projects, specifically in defi.
 - 📫 HMU at chris.buren@rutgers.edu!
 
 <!---
