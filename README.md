@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cburen
 - 👀 I’m interested in financial engineering and half-marathons.
 - 🌱 I’m currently in the Rutgers Quant Finance Masters program and a quant risk intern at Galaxy.
-- 💞️ I’m looking to collaborate on dapp projects, specifically in defi.
+- 💞️ I’m looking to collaborate on degen defi projects.
 - 📫 HMU at chris.buren@rutgers.edu!
 
 <!---
